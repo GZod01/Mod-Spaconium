@@ -13,11 +13,11 @@ Le serveur étant en développement il se peut que de nouvelles fonctionnalités
 
 ## Devenez testeurs:
 Le mod étant en développement il est fort possible qu'il y ait des bugs, spaconium a donc besoin de testeurs.
-<a href="/web/inscription-testers.html">Inscriptions</a>
+<a href="/Readme/web/inscription-testers.html">Inscriptions</a>
 
 
 ## Rejoignez l'équipe:
 Vous voulez rejoindre l'équipe?
-Postez votre candidature sur <a href="/web/candidatures.html">cette page</a>
+Postez votre candidature sur <a href="/Readme/web/candidatures.html">cette page</a>
 
 [![logospaconium](https://cdn.discordapp.com/attachments/1037270814057300052/1037347117733249084/logospaconium.png)](https://discord.io/spaconium)
