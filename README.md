@@ -12,7 +12,7 @@ Rejoignez notre serveur discord: <a href="https://discor.io/spaconium">Rejoindre
 Le serveur étant en développement il se peut que de nouvelles fonctionnalités arrivent
 
 ## Devenez testeurs:
-Le mod étant en développement il est fort possible qu'il y ait des bugs, spaconium a donc besoin de testeurs.
+Le mod étant en développement il est fort possible qu'il y ait des bugs, spaconium a donc besoin de testeurs. (les testeurs peuvent tester des fonctionnalités en avant-première)
 <a href="https://gzod01.github.io/spaconium/private/inscription-testers">Inscriptions</a>
 
 
