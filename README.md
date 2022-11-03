@@ -22,4 +22,3 @@ Postez votre candidature sur <a href="https://gzod01.github.io/spaconium/private
 
 [![logospaconium](https://cdn.discordapp.com/attachments/1037270814057300052/1037347117733249084/logospaconium.png)](https://discord.io/spaconium)
 
-test
