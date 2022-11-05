@@ -2,7 +2,7 @@
 Spaconium est un mod **Français** <img src="/Readme/gallery/images.png" alt="france" width="26"/>., il rajoute plusieurs fonctionnalités au jeu et est encore en developpement.
 ## Rejoignez le serveur discord:
 Rejoignez notre serveur discord: <a href="https://discor.io/spaconium">Rejoindre</a>
-<img src="https://discordapp.com/api/guilds/978527342811045888/widget.png?style=banner2" href="https://discord.io/spaconium"
+<img src="https://discordapp.com/api/guilds/978527342811045888/widget.png?style=banner2" href="https://discord.io/spaconium">
 ## Des fonctionnalités déjà présente...:
 - ### De nouveaux minerais, equipement, blocs
 - ### Des nouvelles dimensions
