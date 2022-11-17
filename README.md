@@ -1,5 +1,5 @@
 # Mod-Spaconium
-Spaconium est un mod **Français** ![logospaconium](/Readme/gallery/images.png)., il rajoute plusieurs fonctionnalités au jeu et est encore en developpement.
+Spaconium est un mod **Français** 🇫🇷., il rajoute plusieurs fonctionnalités au jeu et est encore en developpement.
 ## Rejoignez le serveur discord:
 Rejoignez notre serveur discord: <a href="https://discor.io/spaconium">Rejoindre</a><br>
 <a  href="https://discord.io/spaconium"><img src="https://discordapp.com/api/guilds/978527342811045888/widget.png?style=banner2"></a>
