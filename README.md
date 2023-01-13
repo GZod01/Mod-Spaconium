@@ -1,5 +1,9 @@
 <a href="https://github.com/GZod01/Mod-Spaconium/blob/main/README.fr.md">Version en français</a>
 
+<a href="https://www.curseforge.com/minecraft/mc-mods/spaconium">See on curseforge</a>
+<a href="https://modrinth.com/mod/spaconium">or on modrinth</a>
+<a href="https://mcreator.net/modification/93197/spaconium">or on mcreator.net</a>
+
 # Mod-Spaconium
 Spaconium is an **French** 🇫🇷 mod., it add a lot of in games features and it's still in development.
 ## Join the discord Server:
