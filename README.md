@@ -1,4 +1,4 @@
-<a href="https://github.com/gzod01/mod-spaconium/main/readme.fr.md">Version en français</a>
+<a href="https://github.com/GZod01/Mod-Spaconium/blob/main/README.fr.md">Version en français</a>
 
 # Mod-Spaconium
 Spaconium is an **French** 🇫🇷 mod., it add a lot of in games features and it's still in development.
