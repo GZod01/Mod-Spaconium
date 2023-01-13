@@ -10,7 +10,7 @@ or on <a href="https://mcreator.net/modification/93197/spaconium">mcreator.net</
 # Mod-Spaconium
 Spaconium is an **French** 🇫🇷 mod., it add a lot of in games features and it's still in development.
 ## Join the discord Server:
-Join our discord server (⚠ French is the main language): <a href="https://discor.io/spaconium">Join</a><br>
+Join our discord server (⚠ French is the main language): <a href="https://discord.io/spaconium">Join</a><br>
 <a  href="https://discord.io/spaconium"><img src="https://discordapp.com/api/guilds/978527342811045888/widget.png?style=banner2"></a>
 
 ## The Mod:
