@@ -4,6 +4,9 @@
 or on <a href="https://modrinth.com/mod/spaconium">modrinth</a> 
 or on <a href="https://mcreator.net/modification/93197/spaconium">mcreator.net</a>
 
+***Please let me know if you download the mode by sending a message in the discussion tab of the github, by joining the discord server or any other way...***
+***Please if you find a bug create an issue, join the discord server and inform us or create a comment... inform us***
+***Please if you have any suggestions... i will not repeat myself but inform us by all the way I mentionned above...***
 # Mod-Spaconium
 Spaconium is an **French** 🇫🇷 mod., it add a lot of in games features and it's still in development.
 ## Join the discord Server:
