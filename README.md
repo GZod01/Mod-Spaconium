@@ -38,7 +38,7 @@ If you select **Powers** you will have three choices: Fire (they have fire power
 If you join the server the class choice screen will be automaticly appear but if you create a world with the mod without joining the server you will have to use the /resetclass command to choose your class.
 
 ## Become Tester:
-The mod is in development and there may be bugs, so spaconium need testers. (the testers can preview the coming-soon features) (Join the server Discord, create an issue or send me a mail for more infos)
+The mod is in development and there may be bugs, so spaconium need testers. (the testers can preview the coming-soon features) (Join the discord server, create an issue or send me a mail for more infos)
 <!--<a href="https://gzod01.github.io/spaconium/private/inscription-testers">Inscriptions</a>-->
 
 
